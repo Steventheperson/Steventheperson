@@ -10,6 +10,7 @@ I appreciate these:
   </picture>
   <img src="https://cdn.simpleicons.org/svelte/FF3E00" width="32" alt="Svelte" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" width="32" alt="TypeScript" />
+  <img src="https://cdn.simpleicons.org/tauri/24C8D8" width="32" alt="Tauri" />
 </p>
 
 Also use these:
